@@ -1,0 +1,15 @@
+{
+  "name": "self_learning_project_webgl",
+  "version": "1.0.0",
+  "description": "WebGL self-learning project with lite-server",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
